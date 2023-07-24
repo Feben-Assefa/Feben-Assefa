@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on data analysis projects
 - 💬 Ask me about my "Laugh-o-meter"! I can rate the laughter potential of anything and predict how much it'll make me giggle! 😄🎉
 - 📫 You can reach me at fassefa28@gmail.com
-- ⚡ Fun fact: I'm a laughter magnet—finding joy in the tiniest of things always sets me off giggling!
 <!--
 **Feben-Assefa/Feben-Assefa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
